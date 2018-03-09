@@ -1,0 +1,57 @@
+File: development_report.txt
+Author: Marquis Massie
+Author Email: massiemarquis@gmail.com
+Description: Report for fencing website development cycle; outlining software
+and technology used.
+
+Objective: Re-design a website for a fencing company
+
+Current Software: HTML, CSS, JavaScript, 1and1 hosting service, captcha
+Current pages: Home, Products & Services, Area Served, Contact Us
+Client Contact Info:
+	Phone: +1.909.658.8001
+	Email: info@iefence.com
+	License#: 1001488
+	Business Hours: 
+		Mon - Fri: 7am - 5pm
+		Sat: 7am - 2pm
+	Social Media: https://www.facebook.com/iefence/
+
+Re-design  Ideas/User Stories: As a user I want to ...
+ - clearly see where I can contact the company
+ - clearly see where I can get a quote
+ - know if the quote is free
+ - know the current page I am on
+ - have a map of the service area I can reference
+ - be able to contact the company via email
+ - know if my attempt to contact the company was successful
+ - know if my attempt to contact the company was failed
+ - EASILY know if my area can be serviced
+ - know the production process
+ - know the physical location of the company
+ - have the choice to subscribe to a email service for any
+ 	promotions the company might have
+ - see a gallery of the company's past projects
+ - view the company's social media profiles
+ - know if the company is crediable (B.B.B. certified)
+ - be able to contact support when errors occur
+ - immediately know if there is a new promotion
+ - be able to complete a survey of my customer experience
+ 
+ Technologies:
+ 	Languages: HTML, CSS, JavaScript, PHP
+	Frameworks: Bootstrap, AngularJS, JQuery, SASS
+	Software: internet Explorer, Chrome, Chrome Selenium Extension,
+		WordPress, 1and1 hosting service, Google Maps API, Google Analytics API, Facebook API, Google Captcha API, Lightbox
+		
+ Blueprint
+ 	1. Generate user stories
+	2. gather content/resources
+	3. HTML/PHP
+	4. CSS
+	5. JavaScript
+	No backend
+	
+ Roles
+ 	Cesar Andon: Web Designer/Frontend web engineer
+	Marquis Massie: Full Stack web engineer/scrum leader
